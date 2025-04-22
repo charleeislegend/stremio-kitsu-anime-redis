@@ -17,6 +17,7 @@
     "express": "^4.21.2",
     "fanart.tv-api": "^2.0.1",
     "google-sr": "^5.0.0",
+    "ioredis": "^5.6.1",
     "jaro-winkler": "^0.2.8",
     "kitsu": "^10.0.4",
     "parse-torrent-title": "git://github.com/TheBeastLT/parse-torrent-title.git#2ece588b19d64da6726804b9b18842897b34ffc7",
