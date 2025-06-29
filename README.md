@@ -1,6 +1,6 @@
 # Stremio Kitsu Anime
 
-Unofficial Kitsu anime catalog fro Stremio platform.
+Unofficial Kitsu anime catalog fro Stremio platform. Redis added by Cedya.
 
 ## Usage
 
